@@ -44,7 +44,7 @@ $patterns = [
     * Here is the pattern for extending a layout.
     */
 
-   'extends' => '/@extends\(([^@\{]+)\)/',
+    'extends' => '/@extends\(([^\)]+)\)/',
 
 ];
 
